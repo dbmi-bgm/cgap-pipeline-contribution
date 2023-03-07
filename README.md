@@ -11,7 +11,7 @@ https://cgap-pipeline-main.readthedocs.io/en/latest/.
 
 ## Initialize the Repository
 
-Clone the main pipeline repository.
+Clone the repository.
 The submodules will be empty and set to the current commits saved for the main branch.
 
         git clone https://github.com/dbmi-bgm/cgap-pipeline-contribution.git

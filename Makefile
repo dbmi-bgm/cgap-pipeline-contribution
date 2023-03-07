@@ -24,7 +24,8 @@ deploy-all:
 		--post-wfl \
 		--post-ecr \
 		--repos \
-			.
+			ExpansionHunter-germline \
+			xTea-germline
 
 info:
 	@: $(info Here are some 'make' options:)
