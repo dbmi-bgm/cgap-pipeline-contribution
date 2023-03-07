@@ -1,0 +1,6 @@
+[submodule "ExpansionHunter-germline"]
+	path = ExpansionHunter-germline
+	url = https://github.com/jonathan-bravo/ExpansionHunter-germline
+[submodule "xTea-germline"]
+	path = xTea-germline
+	url = https://github.com/dbmi-bgm/xTea-germline
