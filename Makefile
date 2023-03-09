@@ -7,7 +7,7 @@ pull:
 
 deploy-all:
 	scripts/check_awscred.sh
-	poetry run pipeline_utils pipeline_deploy \
+	pipeline_utils pipeline_deploy \
 		--ff-env ${ENV_NAME} \
 		--builder ${ENV_NAME}-external-pipeline-builder \
 		--keydicts-json ${KEYDICTS_JSON} \
