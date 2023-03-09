@@ -42,4 +42,4 @@ Set the credentials to authenticate to the target environment. A minimal set of 
 
 Deploy all the modules.
 
-        makde deploy-all
+        make deploy-all
