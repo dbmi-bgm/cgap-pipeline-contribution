@@ -29,7 +29,7 @@ The submodules will be set in detached state.
 ## Deployment Requirements
 
 In order to deploy the pipelines `pipeline_utils` need to be installed and available in the environment.
-Please refer to the corresponding documentation here: https://cgap-pipeline-utils.readthedocs.io/en/latest/.
+Please refer to the corresponding documentation here: https://portal-pipeline-utils.readthedocs.io/en/latest/.
 
 The software can also be automatically installed through our main pipeline repository, here: https://github.com/dbmi-bgm/cgap-pipeline-main.
 
@@ -38,7 +38,7 @@ Please refer to the corresponding documentation in the repository.
 
 ## Deploy the Pipelines
 
-Set the credentials to authenticate to the target environment. A minimal set of credentials is required and can be defined in the `.env` file. Additional credentials can be required to authenticate to the environment, see [*here*](https://cgap-pipeline-utils.readthedocs.io/en/latest/deploy_pipeline.html#set-up-credentials-and-environmental-variables) for more details.
+Set the credentials to authenticate to the target environment. A minimal set of credentials is required and can be defined in the `.env` file. Additional credentials can be required to authenticate to the environment, see [*here*](https://portal-pipeline-utils.readthedocs.io/en/latest/deploy_pipeline.html#set-up-credentials-and-environmental-variables) for more details.
 
 Deploy all the modules.
 
